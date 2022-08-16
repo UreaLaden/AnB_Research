@@ -23,8 +23,29 @@ Resources:
 
  
 """
-from imports import *
+from utils.imports import *
 
 Gkey = config(GOOGLE_API)
 SAuthID = config(SMART_ID)
 SToken = config(SMARTY_TOKEN)
+
+def Compile_City_Json():
+   pass
+
+def Cache_City_Json():
+   pass
+
+def Retrieve_ZipCode(city:str):
+   pass
+
+def Compile_City_ZipCodes():
+   pass
+
+def Compile_Distance_Travel():
+   pass
+
+def Export_To_Excel():
+   pass
+
+def Format_Excel_Results():
+   pass

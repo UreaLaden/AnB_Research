@@ -1,0 +1,3 @@
+GOOGLE_API = "GOOGLE_API"
+SMART_ID ="Smarty_AuthID"
+SMARTY_TOKEN = "Smarty_AuthToken"
